@@ -102,3 +102,7 @@
 .list li a:hover {
   color: var(--primary-color) !important;
 }
+
+.l-heading {
+  font-size: 2rem;
+}
